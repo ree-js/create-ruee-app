@@ -1,0 +1,7 @@
+url: https://cdn.jsdelivr.net/npm/twind@0.16.17/twind.js
+version: 0.16.17
+type: module
+more: ["https://cdn.jsdelivr.net/npm/twind@0.16.17/shim/shim.js" | "https://cdn.jsdelivr.net/npm/twind@0.16.17/observe/observe.js"]
+more_as: [ "shim/shim.js" | "observe/observe.js"]
+more_alias: [ "shim/shim.js" | "observe"]
+# more alias is only available for import maps, not installation.

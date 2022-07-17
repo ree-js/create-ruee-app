@@ -1,0 +1,4 @@
+url: https://unpkg.com/vue@3.2.37/dist/vue.esm-browser.prod.js
+version: 3.2.37
+type: module
+alias: vue
